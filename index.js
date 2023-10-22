@@ -1,3 +1,3 @@
-var firstComponent = firstComponent("This is first component.");
+var firstComponent = firstComponent("EN");
 
-var secondComponent = secondComponent("This is second component.")
+var secondComponent = secondComponent("This is second component.");
